@@ -9,4 +9,4 @@ WORKDIR /app
 COPY . /app
 
 # Botni ishga tushirish
-CMD ["php", "bot.php"]
+CMD ["php", "index.php"]
